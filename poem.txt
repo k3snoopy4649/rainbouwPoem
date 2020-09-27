@@ -3,6 +3,8 @@ the rainbow and the unicorn and the poines
  pink 
  orange 
  blue 
+
+ indigo
  red
  green
  yellow
